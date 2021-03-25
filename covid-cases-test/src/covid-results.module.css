@@ -1,0 +1,13 @@
+.results {
+  border-radius: 10px;
+  box-shadow: 0px 5px 20px rgb(20, 20, 10, 60);
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background: white;
+  color: rgb(52, 73, 133);
+  align-items: center;
+  min-width: 45%;
+  height: auto;
+}

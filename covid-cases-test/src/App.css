@@ -1,0 +1,37 @@
+.App {
+  min-height: 100vh;
+}
+
+.search-form {
+  min-height: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.search-bar {
+  width: 50%;
+  border-radius: 5px;
+  border-color: #000;
+  padding: 10px;
+}
+
+.search-btn {
+  border: none;
+  padding: 12px 20px;
+  margin: 10px;
+  background-color: #000;
+  color: #fff;
+}
+
+.covid-results {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.heading-text {
+  color: #000;
+  margin: 10px;
+  text-align: center;
+}
